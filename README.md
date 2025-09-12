@@ -3,5 +3,4 @@ A question answering project implemented in Python as an assignment for Natural 
 # Details
 In this project, I created a QA system by fine-tuning Llama-3.2-1B-bnb-4bit model on PQuAD dataset.
 
-
-Currently working on this
+I'll be adding documentations soon
